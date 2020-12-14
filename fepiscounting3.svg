@@ -352,9 +352,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="243.98909"
-     inkscape:cy="101.40766"
+     inkscape:zoom="1.6542969"
+     inkscape:cx="181.45663"
+     inkscape:cy="240.91847"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -383,7 +383,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -437,7 +437,7 @@
          id="tspan18940"
          x="113.61454"
          y="119.36789"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">P(λ=2)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">P(λ=1)</tspan></text>
     <text
        id="text18938"
        y="119.36789"
@@ -448,7 +448,7 @@
          y="119.36789"
          x="52.231209"
          id="tspan18936"
-         sodipodi:role="line">P(λ=1)</tspan></text>
+         sodipodi:role="line">P(λ=0)</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 84.465654,93.938392 V 125.11773"

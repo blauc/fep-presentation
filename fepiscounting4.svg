@@ -495,7 +495,7 @@
          id="tspan18940"
          x="113.61454"
          y="119.36789"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">P(λ=2)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">P(λ=1)</tspan></text>
     <text
        id="text18938"
        y="119.36789"
@@ -506,7 +506,7 @@
          y="119.36789"
          x="52.231209"
          id="tspan18936"
-         sodipodi:role="line">P(λ=1)</tspan></text>
+         sodipodi:role="line">P(λ=0)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path18948"
@@ -531,7 +531,9 @@
          y="93.180138"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">G<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan19511">1</tspan></tspan></text>
+   id="tspan20805">0</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan19511" /></tspan></text>
     <text
        id="text19487"
        y="80.209572"
@@ -543,8 +545,8 @@
          x="115.20203"
          id="tspan19485"
          sodipodi:role="line">G<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan19509">2</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan20803">1</tspan></tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
